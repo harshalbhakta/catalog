@@ -1,0 +1,9 @@
+name: Artificial Intelligence
+description: Libraries and Frameworks to implement AI features in Ruby
+projects:
+  - anthropic-sdk-ruby
+  - activeagent
+  - openai
+  - ruby_llm
+  - ruby-openai
+  - langchainrb
